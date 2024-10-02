@@ -1,0 +1,79 @@
+1.Spicy Chicken Ramen
+	•Description: A flavorful bowl of spicy broth with tender chicken, soft-boiled eggs, and ramen noodles.
+	•Price: ₹349
+	
+2.Classic Margherita Pizza
+	•Description: A traditional pizza topped with fresh mozzarella, tomato sauce, and basil leaves.
+	•Price: ₹299
+	
+3.Thai Green Curry
+	•Description: Aromatic Thai curry with coconut milk, green curry paste, and assorted vegetables.
+	•Price: ₹399
+	
+4.BBQ Pulled Pork Burger
+	•Description: Juicy pulled pork slathered in BBQ sauce, served in a soft bun with slaw.
+	•Price: ₹449
+
+5.Grilled Salmon with Lemon Butter
+	•Description: Perfectly grilled salmon fillet with a zesty lemon butter sauce, served with veggies.
+	•Price: ₹599
+
+6.Vegan Buddha Bowl
+	•Description: A healthy mix of quinoa, chickpeas, avocado, and colorful veggies, topped with tahini sauce.
+	•Price: ₹349
+	
+7.Garlic Butter Shrimp Pasta
+	•Description: Succulent shrimp in a rich garlic butter sauce, tossed with spaghetti.
+	•Price: ₹499
+
+8.Mediterranean Falafel Wrap
+	•Description: Crisp falafel balls wrapped in pita with hummus, veggies, and tahini dressing.
+	•Price: ₹249
+
+9.Crispy Fish Tacos
+	•Description: Lightly battered fish fillets in soft tortillas, topped with slaw and lime crema.
+	•Price: ₹299
+
+10.Prawn noodle Chinese salad
+	•Description: A refreshing mix of prawns, noodles, and veggies with a tangy dressing.
+	•Price: ₹499
+
+11.Mushroom Risotto
+	•Description: Creamy risotto with earthy mushrooms and a sprinkle of Parmesan.
+	•Price: ₹399
+
+12.Butter Chicken with Naan
+	•Description: Rich and creamy butter chicken served with soft garlic naan.
+	•Price: ₹349
+
+13.Caesar Salad with Grilled Chicken
+	•Description: Crisp romaine lettuce, Parmesan, and croutons topped with grilled chicken.
+	•Price: ₹299
+
+14.Penne Alfredo with Broccoli
+	•Description: Penne pasta in a creamy Alfredo sauce with fresh broccoli.
+	•Price: ₹349
+
+15.Avocado Toast with Poached Egg
+	•Description: Toasted sourdough with smashed avocado, a perfectly poached egg, and chili flakes.
+	•Price: ₹199
+
+16.Korean Fried Chicken Wings
+	•Description: Crispy chicken wings tossed in a sweet and spicy Korean sauce.
+	•Price: ₹449
+
+17.Paneer Tikka Masala
+	•Description: Marinated paneer cubes cooked in a rich tomato gravy, served with naan or rice.
+	•Price: ₹299
+
+18.Lamb Gyros with Tzatziki
+	•Description: Juicy lamb strips wrapped in pita bread with tzatziki sauce and fresh veggies.
+	•Price: ₹399
+
+19.Pulled Jackfruit Tacos
+	•Description: Smoky pulled jackfruit in soft tacos with a tangy slaw and avocado.
+	•Price: ₹249
+
+20.Spinach and Ricotta Ravioli
+	•Description: Handmade ravioli filled with spinach and ricotta, served in a butter sage sauce.
+	•Price: ₹449

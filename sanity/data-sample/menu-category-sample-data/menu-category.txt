@@ -1,0 +1,35 @@
+1. Appetizers & Salads
+	•Caesar Salad with Grilled Chicken – ₹299
+	•Mediterranean Falafel Wrap – ₹249
+	•Vegan Buddha Bowl – ₹349
+	•Avocado Toast with Poached Egg – ₹199
+
+2. Main Course
+	•Spicy Chicken Ramen – ₹349
+	•Thai Green Curry – ₹399
+	•Butter Chicken with Naan – ₹349
+	•Paneer Tikka Masala – ₹299
+	•BBQ Pulled Pork Burger – ₹449
+	•Lamb Gyros with Tzatziki – ₹399
+
+3. Pasta & Noodles
+	•Garlic Butter Shrimp Pasta – ₹499
+	•Penne Alfredo with Broccoli – ₹349
+	•Prawn Noodle Chinese Salad – ₹499
+	•Spinach and Ricotta Ravioli – ₹449
+
+4. Pizza
+	•Classic Margherita Pizza – ₹299
+
+5. Seafood
+	•Grilled Salmon with Lemon Butter – ₹599
+	•Crispy Fish Tacos – ₹299
+
+6. Tacos & Wraps
+	•Pulled Jackfruit Tacos – ₹249
+
+7. Wings & Sides
+	•Korean Fried Chicken Wings – ₹449
+
+8. Rice & Risotto
+	•Mushroom Risotto – ₹399

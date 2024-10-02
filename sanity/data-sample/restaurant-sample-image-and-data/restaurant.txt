@@ -1,0 +1,80 @@
+1.Restaurant: The Spicy Spoon
+
+	•Description: A cozy restaurant known for its flavorful Asian and fusion dishes, offering a wide range of appetizers, main courses, and desserts, all crafted with fresh, local ingredients.
+	•Latitude: 28.6139
+	•Longitude: 77.2090
+	•Address: 15A Connaught Place, New Delhi, 110001, India
+	•Rating: 4.6 / 5
+	•Category: Main Course
+
+Dishes:
+	1.Spicy Chicken Ramen
+	2.Thai Green Curry
+	3.Crispy Fish Tacos
+	4.Garlic Butter Shrimp Pasta
+	5.Korean Fried Chicken Wings
+
+2.Restaurant: Urban Grill House
+
+	•Description: A modern grill house offering a variety of international and BBQ dishes, perfect for meat lovers and casual dining enthusiasts.
+	•Latitude: 12.9716
+	•Longitude: 77.5946
+	•Address: 22 MG Road, Bengaluru, 560001, India
+	•Rating: 4.7 / 5
+	•Category: Main Course
+
+Dishes:
+	1.BBQ Pulled Pork Burger
+	2.Grilled Salmon with Lemon Butter
+	3.Lamb Gyros with Tzatziki
+	4.Korean Fried Chicken Wings
+	5.Spinach and Ricotta Ravioli
+
+3.Restaurant: Green Leaf Café
+
+	•Description: A trendy vegetarian café with an emphasis on fresh, plant-based meals, serving up a variety of salads, bowls, and light eats.
+	•Latitude: 19.0760
+	•Longitude: 72.8777
+	•Address: 45 Marine Drive, Mumbai, 400020, India
+	•Rating: 4.5 / 5
+	•Category: Appetizers & Salads
+
+Dishes:
+	1.Vegan Buddha Bowl 
+	2.Mediterranean Falafel Wrap
+	3.Avocado Toast with Poached Egg 
+	4.Caesar Salad with Grilled Chicken
+	5.Penne Alfredo with Broccoli 
+
+4.Restaurant: The Italian Oven
+
+	•Description: An authentic Italian pizzeria offering classic wood-fired pizzas and freshly made pasta dishes with a cozy dining experience.
+	•Latitude: 22.5726
+	•Longitude: 88.3639
+	•Address: 18 Park Street, Kolkata, 700016, India
+	•Rating: 4.8 / 5
+	•Category: Pizza
+
+Dishes:
+	1.Classic Margherita Pizza 
+	2.Garlic Butter Shrimp Pasta 
+	3.Spinach and Ricotta Ravioli 
+	4.Mushroom Risotto 
+	5.Penne Alfredo with Broccoli 
+
+5.Restaurant: Spicy Delights
+
+	•Description: A local Indian restaurant known for its aromatic curries and spicy delights, offering traditional Indian meals in a vibrant setting.
+	•Latitude: 25.3176
+	•Longitude: 82.9739
+	•Address: 10A Dashashwamedh Road, Varanasi, 221001, India
+	•Rating: 4.6 / 5
+	•Category: Main Course
+
+Dishes:
+	1.Butter Chicken with Naan
+	2.Paneer Tikka Masala 
+	3.Thai Green Curry 
+	4.Spicy Chicken Ramen 
+	5.Pulled Jackfruit Tacos
+

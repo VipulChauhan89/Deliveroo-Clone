@@ -1,0 +1,32 @@
+1. Featured
+
+	•Description: Top-rated restaurants serving the best dishes in town.
+
+Restaurants:
+
+	1.The Spicy Spoon
+	2.Urban Grill House
+	3.Green Leaf Café
+	4.The Italian Oven
+
+2. Offers Near You
+
+	•Description: Enjoy delicious meals with exclusive nearby deals.
+
+Restaurants:
+
+	1.Green Leaf Café
+	2.Spicy Delights
+	3.The Spicy Spoon
+	4.Urban Grill House
+
+3. Tasty Discounts
+
+	•Description: Great food, even greater discounts—don’t miss out!
+
+Restaurants:
+
+	1.Spicy Delights
+	2.The Italian Oven
+	3.Urban Grill House
+	4.Green Leaf Café

@@ -1,0 +1,3 @@
+Deploying to Sanity.Studio
+
+Success! Studio deployed to https://deliverooclonebyvipul.sanity.studio/
